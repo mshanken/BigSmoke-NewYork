@@ -89,6 +89,22 @@ p{
   margin-top: 5px;
   margin-bottom: 5px;
 }
+.cigar_list{
+	font-size:11px;
+	font-family:Arial; 
+	font-weight:bold; 
+	text-align:left; 
+	list-style-type: square;
+}
+#row1{
+	padding-left:24px;
+}
+#row2{
+	padding-left:24px;
+}
+#row3{
+	padding-left:24px;
+}
 @media all and (max-width: 768px){
       #sidebar{
         margin-left: 250px;
@@ -102,5 +118,20 @@ p{
 @media all and (max-width: 480px){
     .button{
         margin-left: -5px;
+      }
+    }
+@media all and (max-width: 780px){
+   	#row1{
+		padding-left:40px;
+      }
+    }
+@media all and (max-width: 780px){
+   	#row2{
+		padding-left:40px;
+      }
+    }
+@media all and (max-width: 780px){
+   	#row3{
+		padding-left:40px;
       }
     }
