@@ -1,0 +1,5 @@
+# Project ignored files by git
+node_modules
+.DS_Store
+.project
+._*
