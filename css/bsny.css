@@ -90,20 +90,13 @@ p{
   margin-bottom: 5px;
 }
 .cigar_list{
-	font-size:11px;
-	font-family:Arial; 
+	font-size: 12px;
+	font-family:arial; 
 	font-weight:bold; 
 	text-align:left; 
 	list-style-type: square;
-}
-#row1{
-	padding-left:24px;
-}
-#row2{
-	padding-left:24px;
-}
-#row3{
-	padding-left:24px;
+	padding-left: 5px;
+	line-height: 1.7em;
 }
 @media all and (max-width: 768px){
       #sidebar{
